@@ -2,6 +2,8 @@
 
 Chapter 1
 - Tabular data and machine learning
+- Regression and Classification
+- Forest-based Classification and Regression
 - Image data and deep learning
 - Image Classification
 - Image Detection
