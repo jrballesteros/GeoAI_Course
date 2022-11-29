@@ -3,7 +3,7 @@
 Chapter 1
 - Tabular data and machine learning
 - Regression and Classification
-- Forest-based Classification and Regression
+- Random Forest-based Classification and Regression
 - Image data and deep learning
 - Image Classification
 - Image Detection
@@ -22,7 +22,3 @@ Chapter 3
 Cahpter 4
 - Super Resolution
 - Image translation of SAR and Thermal images
-
-
-
-
