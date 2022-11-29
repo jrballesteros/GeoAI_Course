@@ -7,8 +7,8 @@
 - Image data and deep learning
 - Image Classification using CNNs
 - Image Detection using CNNs
-### Workshop 1
-### Online Test 1
+#### Workshop 1
+#### Online Test 1
 
 Chapter 2
 - Image Caption with CNNs and RNNs
