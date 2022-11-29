@@ -23,3 +23,5 @@ Chapter 3
 Cahpter 4
 - Super Resolution
 - Image translation of SAR and Thermal images
+- Removing clouds in satellite imagery
+- Improving segmentation masks for vector extraction refinement
