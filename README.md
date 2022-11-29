@@ -5,16 +5,17 @@ Chapter 1
 - Regression and Classification
 - Random Forest-based Classification and Regression
 - Image data and deep learning
-- Image Classification
-- Image Detection
+- Image Classification using CNNs
+- Image Detection using CNNs
 
 Chapter 2
-- Image Caption
-- Image Segmentation
-- Image Generation
+- Image Caption with CNNs and RNNs
+- Image Segmentation with U-Net
+- Image Generation with GANs
 
 Chapter 3
-- Producing Datasets with GIS
+- Downloading main geospatial AI datasets
+- Producing GeoAI Datasets with GIS
 - Data Augmentation
 - Data Fusion
 - Data Imbalance
