@@ -1,1 +1,4 @@
-# Geo_AI
+# GeoAI_Course
+
+
+
